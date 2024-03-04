@@ -730,7 +730,7 @@ color: #fefefe;
 .fifi-btn:hover {
 	background-color: #7a2515;
 }
-/*.social-icon {
+.social-icon {
 text-align: center;
 padding:30px 0;
 }
@@ -794,7 +794,7 @@ padding:30px 0;
 }
 .social-icon a i.icon8:hover{
 	background-position:-280px -40px;
-}*/
+}
 .contact {
 	padding-bottom:4em;
 border-bottom: 1px solid#55626f;
